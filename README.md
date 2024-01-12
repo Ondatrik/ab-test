@@ -15,8 +15,8 @@ However, the metrics are also influenced by users who cheat the game. The data i
 
 **Project files:**
 
-**initial-data-processing** -  file uploads the initial data provided in .CSV files, deduplicates it, explores relations between entities, and rearranges it in a format suitable for further analysis.  
+**initial-data-processing** -  the file uploads the initial data provided in .CSV files, deduplicates it, explores relations between entities, and rearranges it in a format suitable for further analysis.  
 
 **cheaters-filter** - exploring behaviour pattern of users, who cheated the game, identifying and removing new users with the same pattern.  
 
-**main** - the file with insights from the A/B test.
+**main** - the file applies analysis methodology and produces insights from the A/B test.
